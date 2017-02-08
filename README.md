@@ -1,2 +1,4 @@
 # e2e-test-repo
-Repo for resolver e2e tests
+
+This repo is used for tests in https://github.com/yarnpkg/yarn/blob/master/__tests__/package-resolver.js
+Don't delete it.
