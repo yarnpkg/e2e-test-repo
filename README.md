@@ -1,5 +1,7 @@
 # e2e-test-repo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yarnpkg/e2e-test-repo.svg)](https://greenkeeper.io/)
+
 This repo is used for tests in:
 
 - https://github.com/yarnpkg/yarn/blob/master/__tests__/package-resolver.js
